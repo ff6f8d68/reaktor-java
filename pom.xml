@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.myname.reactions</groupId>
-    <artifactId>live-reaction-simulator</artifactId>
+    <groupId>maven.hexagon.reaktorjava</groupId>
+    <artifactId>reaktor-java</artifactId>
     <version>1.0.0</version>
 
     <name>Live Reaction Simulator</name>
@@ -22,8 +22,8 @@
 
     <developers>
         <developer>
-            <id>myid</id>
-            <name>Your Name</name>
+            <id>ff6f8d68</id>
+            <name>hexagon</name>
             <email>you@example.com</email>
         </developer>
     </developers>
@@ -51,7 +51,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub OWNER Apache Maven Packages</name>
+            <name>GitHub ff6f8d68 Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/ff6f8d68/reaktor-java</url>
         </repository>
     </distributionManagement>

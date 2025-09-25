@@ -1,4 +1,4 @@
-package apps.hexagon.modified.platform;
+package maven.hexagon.reaktorjava;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
