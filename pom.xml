@@ -7,7 +7,7 @@
 
     <groupId>maven.hexagon.reaktorjava</groupId>
     <artifactId>reaktor-java</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.4</version>
 
     <name>Live Reaction Simulator</name>
     <description>A Java simulator for atomic reactions, used for modding and simulations.</description>
