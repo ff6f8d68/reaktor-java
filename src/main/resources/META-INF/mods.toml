@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="reaktor"
+version="1.0.0"
+displayName="Reaktor Library"
+description="a library for computing atomic reactions; PATCHED FOR FORGE BY HEXAGON"
